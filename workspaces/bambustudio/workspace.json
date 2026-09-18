@@ -12,7 +12,7 @@
   "compatibility": [
     {
       "version": "1.19.x",
-      "image": "linuxserver/bambustudio:latest",
+      "image": "lscr.io/linuxserver/bambustudio:latest",
       "uncompressed_size_mb": 3230,
       "available_tags": [
         "develop",
